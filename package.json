@@ -1,0 +1,19 @@
+{
+  "name": "screamer",
+  "version": "1.1.0",
+  "description": "\"\"\u001b[Dlouder please\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehawk82/screamer.git"
+  },
+  "author": "MrEhawk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ehawk82/screamer/issues"
+  },
+  "homepage": "https://github.com/Ehawk82/screamer#readme"
+}
