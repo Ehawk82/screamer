@@ -1,3 +1,3 @@
 # screamer
-##basic idea
+## basic idea
 A tool for being right on the internet.
