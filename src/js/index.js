@@ -1,7 +1,7 @@
 var http = require("http");
 var fs = require("fs");
 
-fs.readFile('../html/index.html', function (err, html) {
+fs.readFile('../screamer/src/html/index.html', function (err, html) {
     if (err) {
         throw err; 
     }   
