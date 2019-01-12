@@ -1,6 +1,6 @@
 {
   "name": "screamer",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "\"\"\u001b[Dlouder please\"",
   "main": "index.js",
   "scripts": {
