@@ -1,3 +1,3 @@
-function scream(x) { return x.trim().toUpperCase() };
+function screamer(x) { return x.trim().toUpperCase() };
 
-module.exports = { screamer: scream };
+module.exports = { screamer: screamer };

@@ -1,8 +1,8 @@
 {
-  "name": "screamer",
-  "version": "1.1.2",
-  "description": "\"\"\u001b[Dlouder please\"",
-  "main": "index.js",
+  "name": "screamer-test-impl",
+  "version": "1.1.3",
+  "description": "louder please",
+  "main": "src/js/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./src/js/index.js"
